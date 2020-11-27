@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-selection",
+  "version": "0.1.1",
+  "description": "Tailwind CSS plugin to add ::selection state variant.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozklad/tailwindcss-selection.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "selection"
+  ],
+  "author": "rozklad <jan.rozklad@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/rozklad/tailwindcss-selection/issues"
+  },
+  "homepage": "https://github.com/rozklad/tailwindcss-selection#readme",
+  "devDependencies": {
+    "release-it": "^14.2.2"
+  }
+}
